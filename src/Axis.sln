@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AxisUtility", "AxisUtility\AxisUtility.csproj", "{4DE014EE-7E8E-43B5-B913-B25FD81BE753}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Axis.Share.Soap", "Axis.Share.Soap\Axis.Share.Soap.csproj", "{33A421EF-6440-4ACA-AA0C-691E4765F2EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Axis.Share", "Axis.Share\Axis.Share.csproj", "{9BC4267F-DD9F-4849-89AC-48B7C2EBC591}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DE014EE-7E8E-43B5-B913-B25FD81BE753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DE014EE-7E8E-43B5-B913-B25FD81BE753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DE014EE-7E8E-43B5-B913-B25FD81BE753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DE014EE-7E8E-43B5-B913-B25FD81BE753}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33A421EF-6440-4ACA-AA0C-691E4765F2EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33A421EF-6440-4ACA-AA0C-691E4765F2EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33A421EF-6440-4ACA-AA0C-691E4765F2EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33A421EF-6440-4ACA-AA0C-691E4765F2EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BC4267F-DD9F-4849-89AC-48B7C2EBC591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BC4267F-DD9F-4849-89AC-48B7C2EBC591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BC4267F-DD9F-4849-89AC-48B7C2EBC591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BC4267F-DD9F-4849-89AC-48B7C2EBC591}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
